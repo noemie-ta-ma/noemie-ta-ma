@@ -1,13 +1,24 @@
-# Salut, moi c'est Noémie ! 👋
+<div align="center">
 
-Je suis une **Développeuse Full-stack Junior** passionnée par la création d'applications web modernes et performantes. Actuellement en cursus chez **Epitech**, je combine ma rigueur technique avec une forte sensibilité **UX/UI**.
+# Noémie Tasca
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeuse+Web+Full-stack+Junior;%C3%89l%C3%A8ve+%C3%A0+Epitech+Lille;Passionn%C3%A9e+par+l'UX+%2F+UI" alt="Typing SVG" />
 
-- 🚀 Je recherche activement une **alternance**.
-- 🌱 Je mise sur le duo **Design & Code** pour créer des interfaces intuitives.
-- 💬 N'hésitez pas à me porter conseil... ou à m'en demander !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemie-tasca/)
 
-| Me contacter | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemie-tasca/) |
+</div>
+
+---
+
+### 📅 Recherche d'Alternance
+
+> **Statut :** À la recherche d'une opportunité pour septembre 2026.
+
+| Information | Détails |
 | :--- | :--- |
+| **Période** | 14 Sept. 2026 — 22 Oct. 2027 |
+| **Rythme** | 6 Sem. Entreprise / 2 Sem. École |
+| **Contrat** | Apprentissage / (- de 30 ans) |
+
 ---
 
 ### 🛠️ Stack Technique
@@ -21,7 +32,7 @@ Je suis une **Développeuse Full-stack Junior** passionnée par la création d'a
 
 ---
 
-### 📊 Statistiques GitHub
+### Quelques Statistiques
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=noemie-ta-ma&show_icons=true&theme=radical" alt="Stats de Noémie" height="180px" />
