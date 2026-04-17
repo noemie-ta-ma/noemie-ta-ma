@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=31A8FF&text=Noémie%20Tasca&height=120&fontSize=50&fontAlignY=40&desc=Développeuse%20Web%20Full-stack%20Junior&descAlignY=75&descSize=20" alt="Noémie Tasca Titre" />
-
+# Noémie Tasca
+### Développeuse Web Full-stack Junior
 **Élève à Epitech Lille**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemie-tasca/)
@@ -12,13 +12,11 @@
 
 ### 📅 Recherche d'Alternance
 
-> **Statut :** À la recherche d'une opportunité pour septembre 2026.
-
 | Information | Détails |
 | :--- | :--- |
 | **Période** | 14 Sept. 2026 — 22 Oct. 2027 |
 | **Rythme** | 6 Sem. Entreprise / 2 Sem. École |
-| **Contrat** | Apprentissage / ( - de 30 ans) |
+| **Localisation** | Lille / Remote |
 
 ---
 
