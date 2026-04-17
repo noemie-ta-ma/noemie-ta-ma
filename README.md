@@ -1,7 +1,8 @@
 <div align="center">
 
-# Noémie Tasca
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=D%C3%A9veloppeuse+Web+Full-stack+Junior;%C3%89l%C3%A8ve+%C3%A0+Epitech+Lille;Passionn%C3%A9e+par+l'UX+%2F+UI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=31A8FF&text=Noémie%20Tasca&height=120&fontSize=50&fontAlignY=40&desc=Développeuse%20Web%20Full-stack%20Junior&descAlignY=75&descSize=20" alt="Noémie Tasca Titre" />
+
+**Élève à Epitech Lille**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemie-tasca/)
 
@@ -17,7 +18,7 @@
 | :--- | :--- |
 | **Période** | 14 Sept. 2026 — 22 Oct. 2027 |
 | **Rythme** | 6 Sem. Entreprise / 2 Sem. École |
-| **Contrat** | Apprentissage / (- de 30 ans) |
+| **Contrat** | Apprentissage / ( - de 30 ans) |
 
 ---
 
@@ -32,7 +33,7 @@
 
 ---
 
-### Quelques Statistiques
+### 📊 Quelques Statistiques
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=noemie-ta-ma&show_icons=true&theme=radical" alt="Stats de Noémie" height="180px" />
