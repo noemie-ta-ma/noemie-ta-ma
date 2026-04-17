@@ -6,8 +6,8 @@ Je suis une **Développeuse Full-stack Junior** passionnée par la création d'a
 - 🌱 Je mise sur le duo **Design & Code** pour créer des interfaces intuitives.
 - 💬 N'hésitez pas à me porter conseil... ou à m'en demander !
 
-**Me contacter :** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemie-tasca/)
-
+| Me contacter | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemie-tasca/) |
+| :--- | :--- |
 ---
 
 ### 🛠️ Stack Technique
