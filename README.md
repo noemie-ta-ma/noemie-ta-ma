@@ -30,10 +30,3 @@
 | **Autres** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
-
-### 📊 Quelques Statistiques
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=noemie-ta-ma&show_icons=true&theme=radical" alt="Stats de Noémie" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemie-ta-ma&layout=compact&theme=radical" alt="Langages les plus utilisés" height="180px" />
-</p>
